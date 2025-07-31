@@ -146,13 +146,6 @@ Go to your browser and visit:
 
 ---
 
-## 👨‍💻 Author
-
-- **Hasitha Reddy Eppalapalli**  
-  - [GitHub](https://github.com/hasithaa02)  
-  - [LinkedIn](https://www.linkedin.com/in/hasitha-reddy-eppalapalli-ab290a230/)
-
----
 
 ## 📄 License
 
