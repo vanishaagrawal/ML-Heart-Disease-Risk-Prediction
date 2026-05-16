@@ -1,4 +1,4 @@
-# Heart_Disease_Prediction_System
+# ML-Heart-Disease-Risk-Prediction
 ## ❤️ Heart Disease Prediction Web App
 
 A machine learning-based web application developed using **Flask** that predicts the likelihood of a person having heart disease based on several medical inputs.
